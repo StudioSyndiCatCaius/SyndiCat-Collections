@@ -1,0 +1,1 @@
+SyndiCat Collections is a collection of public-domain assets and code usings in Studio SyndiCat projects.
